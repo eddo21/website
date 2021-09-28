@@ -1,0 +1,37 @@
+
+.content-details h2{
+    text-align: left;
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+.content-details p{
+    text-align: left;
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+#avisos{
+    width: 100%;
+    padding: 20px;
+    background: #ffffff;
+}
+
+.content-details{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+
+.content-item2{
+    width: 300px;
+    text-align: center;
+    margin: 20px;
+    
+}
+
+.icon-heart, .icon-laptop, .icon-support{
+    color: #e47171;
+    font-size: 40px;
+}

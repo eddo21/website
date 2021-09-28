@@ -1,0 +1,13 @@
+#ubicacion{
+    width: 750px;
+    height: 450px;
+    background: grey;
+   margin-left: 200px;
+    float: left;
+}
+#facebook{
+    width: 100px;
+    height: 450px;
+    background: grey;
+    float: left;
+}
